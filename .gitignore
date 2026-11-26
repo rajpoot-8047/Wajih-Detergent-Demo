@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+*.exe
+*.apk
+*.deb
+*.db
+*.sqlite
+*.pyc
+node_modules/
+android/
+asset/
+release/
